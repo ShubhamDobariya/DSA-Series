@@ -2,7 +2,7 @@
 
 ---
 
-## **Array & Vector**(./Array%20&%20Vector/)
+## [**Array & Vector**](./Array%20&%20Vector/)
 - [Sort Array of 0s, 1s & 2s](./Array%20&%20Vector/0s1s2s.cpp)  
 - [Maximum Subarray](./Array%20&%20Vector/Maximum_Subarray.md)  
 
