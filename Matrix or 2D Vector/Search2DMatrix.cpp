@@ -3,6 +3,8 @@
 
 using namespace std;
 
+// Leetcode Qs. 74
+
 bool searchInRow(vector<vector<int>> mat, int target, int Row) // TC = O(log(n)) , n = column
 {
     int column = mat[0].size();
