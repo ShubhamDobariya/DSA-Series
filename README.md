@@ -37,6 +37,7 @@ Welcome to the **DSA-Series** repository! 🚀
 
 ## **Matrix or 2D Vector**
 - [Search a 2D Matrix](./Matrix%20or%202D%20Vector/Search2DMatrix.cpp)
+- [Search a 2D Matrix-2](./Matrix%20or%202D%20Vector/Search2DMatrix2.cpp)
 
 
 
