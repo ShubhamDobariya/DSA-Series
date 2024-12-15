@@ -36,6 +36,7 @@ Welcome to the **DSA-Series** repository! 🚀
 - [Search a 2D Matrix](./Matrix%20or%202D%20Vector/Search2DMatrix.cpp)
 - [Search a 2D Matrix-2](./Matrix%20or%202D%20Vector/Search2DMatrix2.cpp)
 - [Spiral Matrix](./Matrix%20or%202D%20Vector/SpiralMatrix.cpp)
+- [Find Missing & Reated Values](./Matrix%20or%202D%20Vector/FinadMissingAndRepeadingValues.cpp)
 
 ## **Sorting Algorithm**
 
