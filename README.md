@@ -16,6 +16,7 @@ Welcome to the **DSA-Series** repository! 🚀
 - [Smallest Num in Array](./Array%20&%20Vector/SmallestNumArray.cpp)
 - [Best Time to Buy and Sell Stock](./Array%20&%20Vector/SmallestNumArray.cpp)
 - [Two Sum](./Array%20&%20Vector/TwoSum.cpp)
+- [Find the Duplicate Number](./Array%20&%20Vector/FindDuplicateNum.cpp)
 
 ## **Binary Exponentiation**
 
