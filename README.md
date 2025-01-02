@@ -19,6 +19,7 @@ Welcome to the **DSA-Series** repository! 🚀
 - [Find the Duplicate Number](./Array%20&%20Vector/FindDuplicateNum.cpp)
 - [Three Sum](./Array%20&%20Vector/ThreeSum.cpp)
 - [Four Sum](./Array%20&%20Vector/FourSum.cpp)
+- [Subarray Sum Equals K](./Array%20&%20Vector/SubarraySumEqualsK.cpp)
 
 ## **Binary Exponentiation**
 
