@@ -58,3 +58,4 @@ Welcome to the **DSA-Series** repository! 🚀
 ## **Recursion**
 
 - [Fibonacci Numbers](./Recursion/FibonacciNumber.cpp)
+- [Binary Search ](./Recursion/BinarySearch.cpp)
