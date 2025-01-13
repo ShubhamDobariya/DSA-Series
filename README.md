@@ -57,4 +57,4 @@ Welcome to the **DSA-Series** repository! 🚀
 
 ## **Recursion**
 
-- [Fibonacci Numbers](./Strings/FibonacciNumber.cpp)
+- [Fibonacci Numbers](./Recursion/FibonacciNumber.cpp)
